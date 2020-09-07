@@ -121,7 +121,6 @@ use:
 ``` 
   Houyun Huang, Lei Zhou, Jian Chen and Taiyun Wei(2020). ggcor: Extended tools for correlation analysis and visualization. R package version 0.9.7.
 ```
-
 A BibTeX entry for LaTeX users is
 
 ``` 
@@ -131,7 +130,7 @@ A BibTeX entry for LaTeX users is
     author = {Houyun Huang, Lei Zhou, Jian Chen and Taiyun Wei},
     year   = {2020},
     note   = {R package version 0.9.7},
-    url    = {https://github.com/houyunhuang/ggcor},
+    url    = {https://github.com/zlabx/ggcor},
   }
 ```
 
